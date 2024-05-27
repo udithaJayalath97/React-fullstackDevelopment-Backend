@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node src/server.mjs"
   },
-    
   "dependencies": {
     "express": "^4.19.2"
   }
