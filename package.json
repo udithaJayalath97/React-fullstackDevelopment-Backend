@@ -1,0 +1,13 @@
+{
+  "name": "my-blog-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/server.mjs",
+  "scripts": {
+    "start": "node src/server.mjs"
+  },
+    
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
